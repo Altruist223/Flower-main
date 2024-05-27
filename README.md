@@ -17,6 +17,7 @@ npm i -g scss
 ### Map SCSS file with HTML
 
 ```
+sass --watch style.scss:style.css
 
 Also map js file with html file 
 
